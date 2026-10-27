@@ -49,3 +49,22 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 18 | Must Erase | ch-3_3 |
 | 19 | Capital Gate | ch-3_3 |
 | 20 | Outer city | ch-3_3 |
+
+## ch3-4
+| # | Original name | Used in |
+|---|---|---|
+| 0 | Youmyim Outskirt | ch-3_4 |
+| 1 | Morgan's death | ch-3_4 |
+| 2 | Alex's flashback of castle | ch-3_4 |
+| 3 | Capital Gate | ch-3_4 |
+| 4 | Broken Gate | ch-3_4 |
+| 5 | The streets | ch-3_4 |
+| 6 | Soldier's plea | ch-3_4 |
+| 7 | Kuro lift up Rafael by the throat | ch-3_4 |
+| 8 | Rafael's neck snap | ch-3_4 |
+| 9 | Alex attack | ch-3_4 |
+| 10 | Blade caught | ch-3_4 |
+| 11 | Kick (2) | ch-3_4 |
+| 12 | Into the Wall (2) | ch-3_4 |
+| 13 | White | ch-3_4 |
+| 14 | Omen Portal | ch-3_4 |
