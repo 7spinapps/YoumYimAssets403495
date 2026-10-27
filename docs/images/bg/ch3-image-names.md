@@ -47,3 +47,5 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 16 | Failed to kill himself, disappoint | ch-3_3 |
 | 17 | Broken Logic, Mad | ch-3_3 |
 | 18 | Must Erase | ch-3_3 |
+| 19 | Capital Gate | ch-3_3 |
+| 20 | Outer city | ch-3_3 |
