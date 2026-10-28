@@ -68,3 +68,4 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 12 | Into the Wall (2) | ch-3_4 |
 | 13 | White | ch-3_4 |
 | 14 | Omen Portal | ch-3_4 |
+| 15 | Semi-flashback: ch3-4/5 desaturated + c_021_008 (Kuro unhelmed, crest), made by Claude | ch-3_4 "ไม่มีผิดแน่ นั่นคือตราสัญลักษณ์ของคุโระ" |
