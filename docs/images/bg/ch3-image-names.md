@@ -48,7 +48,7 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 17 | Broken Logic, Mad | ch-3_3 |
 | 18 | Must Erase | ch-3_3 |
 | 19 | Capital Gate | ch-3_3 |
-| 20 | Outer city | (unused) |
+| 20 | Outer city | (deleted — replaced by 28) |
 
 ## ch3-4
 | # | Original name | Used in |
@@ -81,4 +81,6 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 30 | Shattered Past Castle | ch-3_3 |
 | 31 | Present Castle | ch-3_3 |
 | 32 | Shattered Anime Memories in Crimson Space | ch-3_3 |
-| 33 | Past Castle Cracked Memory | (unused) |
+| 33 | Past Castle Cracked Memory | ch-3_3 |
+| 34 | Crimson Storm Dark Knight | ch-3_3 |
+| 35 | Red skies | ch-3_3 |
