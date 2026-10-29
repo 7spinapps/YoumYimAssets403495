@@ -36,7 +36,7 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 5 | Flashback (3) | ch-3_3 |
 | 6 | Blood spilled (2) | ch-3_3 |
 | 7 | Flashback (5) | ch-3_3 |
-| 8 | Flashback (6) | ch-3_3 |
+| 8 | Flashback (6) | (unused) |
 | 9 | Blood spilled (3) | ch-3_3 |
 | 10 | Flashback (1) | ch-3_3 |
 | 11 | Kuro Arrival at Capital | ch-3_3 |
@@ -48,7 +48,7 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 17 | Broken Logic, Mad | ch-3_3 |
 | 18 | Must Erase | ch-3_3 |
 | 19 | Capital Gate | ch-3_3 |
-| 20 | Outer city | ch-3_3 |
+| 20 | Outer city | (unused) |
 
 ## ch3-4
 | # | Original name | Used in |
@@ -69,3 +69,16 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 13 | White | ch-3_4 |
 | 14 | Omen Portal | ch-3_4 |
 | 15 | Semi-flashback: ch3-4/5 desaturated + c_021_008 (Kuro unhelmed, crest), made by Claude | ch-3_4 "ไม่มีผิดแน่ นั่นคือตราสัญลักษณ์ของคุโระ" |
+| 21 | (added as 21.png) Kuro veins glowing, before going mad | ch-3_3 |
+| 22 | Explosive Shattered Glass on Black | ch-3_3 |
+| 23 | Memory1 | ch-3_3 |
+| 24 | Memory2 | ch-3_3 |
+| 25 | Memory3 | ch-3_3 |
+| 26 | Memory4 | ch-3_3 |
+| 27 | Memory5 | ch-3_3 |
+| 28 | Ruined Castle Beyond the Market Street | ch-3_3 |
+| 29 | Nostalgic Castle in a Golden Flashback | ch-3_3 |
+| 30 | Shattered Past Castle | ch-3_3 |
+| 31 | Present Castle | ch-3_3 |
+| 32 | Shattered Anime Memories in Crimson Space | ch-3_3 |
+| 33 | Past Castle Cracked Memory | (unused) |
