@@ -100,7 +100,13 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | # | Original name | Used in |
 |---|---|---|
 | 0 | unconcious | ch-3_5 "ดวงตาของอเล็กซ์ค่อย ๆ เบิกขึ้น", "เขาหลับตาลง" |
-| 1 | regain conciousness | ch-3_5 Alex's first words; "ความเงียบหวนคืนกลับมา"; the unseen presence |
-| 2 | Prison (1) | ch-3_5 the void sky ("ข้างบน มีท้องฟ้าอยู่"), lightning beats, last entry |
+| 1 | regain conciousness | ch-3_5 Alex's first words; "ความเงียบหวนคืนกลับมา"; "…เจ้าพูดถูก…"; "ความเงียบ" (121) → Lahabrea arrives |
+| 2 | Prison (1) | ch-3_5 the void sky ("ข้างบน มีท้องฟ้าอยู่"), lightning beats, Lahabrea ("ตัวตนของบางอย่างนั้นหยุดลงต่อหน้าเขา") to the end |
 | 3 | Good'old days | source of 4 |
 | 4 | Flashback: 3 sepia + bloom + hazy vignette, made by Claude | ch-3_5 "หลายปีก่อน" memory, "มีชีวิตชีวา" → "…พวกเราเคย…" |
+| 5 | Inner self | ch-3_5 "ภาพกระพริบไหว", "อีกหนึ่งความทรงจำ", "ความทรงจำเลือนหาย" |
+| 6 | Alone | ch-3_5 "และใจกลางของทั้งหมดนั้น—" |
+| 7 | Yida Past Present | ch-3_5 "ภาพของอี้ต้าฉู่" |
+| 8 | Kuro Defeated Alex | ch-3_5 "…คุโระ…" (entry 112) |
+| 9 | Kuro Spared Alex | ch-3_5 "…เจ้าเชื่อว่าข้าจะเปลี่ยนได้…" |
+| 10 | Kuro Past Present | ch-3_5 "…นั่น ไม่ใช่เจ้า…" |
