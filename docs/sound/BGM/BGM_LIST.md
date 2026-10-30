@@ -14,3 +14,4 @@ Named tracks that were renamed to the `bgmNN.mp3` scheme. Transcripts reference 
 | bgm109.mp3 | The Corin Forest — Titania's Domain Theme | ch-3_1 (opening walk, and from entry 101 after the retelling) |
 | bgm110.mp3 | The Withered Forest — Famine's Domain Theme | ch-3_1 (from bg ch3-1/1, the rotten inner forest, entry 162), ch-3_2 (whole chapter except the Titania flashback, entries 44–55) |
 | bgm111.mp3 | Queen of the Enchanted Court — Titania's Theme | ch-3_2 (Lumine's flashback of Titania, bg ch3-2/2–3, entries 44–55) |
+| bgm112.mp3 | Beyond the Veil of Creation — Lahabrea's Theme | ch-3_5 (whole chapter, Alex chained in the Silent Void) |

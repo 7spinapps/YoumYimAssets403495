@@ -95,3 +95,12 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 33 | Past Castle Cracked Memory | ch-3_3 |
 | 34 | Crimson Storm Dark Knight | ch-3_3 |
 | 35 | Red skies | ch-3_3 |
+
+## ch3-5
+| # | Original name | Used in |
+|---|---|---|
+| 0 | unconcious | ch-3_5 "ดวงตาของอเล็กซ์ค่อย ๆ เบิกขึ้น", "เขาหลับตาลง" |
+| 1 | regain conciousness | ch-3_5 Alex's first words; "ความเงียบหวนคืนกลับมา"; the unseen presence |
+| 2 | Prison (1) | ch-3_5 the void sky ("ข้างบน มีท้องฟ้าอยู่"), lightning beats, last entry |
+| 3 | Good'old days | source of 4 |
+| 4 | Flashback: 3 sepia + bloom + hazy vignette, made by Claude | ch-3_5 "หลายปีก่อน" memory, "มีชีวิตชีวา" → "…พวกเราเคย…" |
