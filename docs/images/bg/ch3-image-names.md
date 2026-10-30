@@ -79,6 +79,7 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 15 | Semi-flashback: ch3-4/5 desaturated + c_021_008 (Kuro unhelmed, crest), made by Claude | ch-3_4 "ไม่มีผิดแน่ นั่นคือตราสัญลักษณ์ของคุโระ" |
 | 16 | Kuro Approaching1 | ch-3_4 "คุโระเดินเข้ามาหา" |
 | 17 | Kuro Approaching2 | ch-3_4 "แต่ไม่อาจหยุดยั้งได้" |
+| 18 | Kuro Approach Blur | ch-3_4 "เสียงบิดเบี้ยว" |
 | 21 | (added as 21.png) Kuro veins glowing, before going mad | ch-3_3 |
 | 22 | Explosive Shattered Glass on Black | ch-3_3 |
 | 23 | Memory1 | ch-3_3 |
