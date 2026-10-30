@@ -17,6 +17,14 @@ Original file names before renaming to numbers.
 | 1 | Famine's forest | ch-3_1 |
 | 2 | Lumine entrance | ch-3_1 |
 
+## ch3-2
+| # | Original name | Used in |
+|---|---|---|
+| 0 | (pre-numbered) empty throne | source of 2 |
+| 1 | Titania's Court | source of 3 |
+| 2 | Flashback: 0 sepia + bloom + hazy vignette, made by Claude | ch-3_2 "…ป่าแห่งนี้เคยมีชีวิตชีวา" → "…นาง?" |
+| 3 | Flashback: 1 sepia + bloom + hazy vignette, made by Claude | ch-3_2 "…ราชินีของพวกเรา" → "ที่ป่าแห่งนี้รุ่งเรือง ก็เพราะนาง" |
+
 ## ch3-0-1
 Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | # | Content | Used in |
