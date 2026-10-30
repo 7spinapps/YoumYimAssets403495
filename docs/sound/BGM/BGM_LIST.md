@@ -11,3 +11,5 @@ Named tracks that were renamed to the `bgmNN.mp3` scheme. Transcripts reference 
 | bgm106.mp3 | Kefka — The Mad Collapse | ch-2_10 (battle vs Kefka, ch2-10-001; replaced bgm78) |
 | bgm107.mp3 | Council of Catastrophes — Calamities' Theme | ch-3_0 (opening scene, the Calamities' council in the Void) |
 | bgm108.mp3 | The Architect of Ruin — Lahabrea's Theme | ch-3_0 (Lahabrea's experiment in the Forgotten Sanctum, from bg ch3-0-1/10) |
+| bgm109.mp3 | The Corin Forest — Titania's Domain Theme | ch-3_2 (opening at Lumine's pool through her memories of Titania) |
+| bgm110.mp3 | The Withered Forest — Famine's Domain Theme | ch-3_2 (from "500 years ago", entry 56, to end of chapter) |
