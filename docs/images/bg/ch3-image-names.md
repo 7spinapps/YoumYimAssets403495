@@ -117,3 +117,11 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 0 | Calamity-Lahabrea-Intro | ch-3_6 Albert describes Lahabrea (entries 108–110) |
 | 1 | Calamity-Famine-Intro | ch-3_6 Albert describes Famine / Titania (entries 113–121) |
 | 2 | Calamity-Kefka-Intro | ch-3_6 Albert describes Kefka (entries 122–124) |
+
+## ch3-7
+| # | Original name | Used in |
+|---|---|---|
+| 0 | Magical Graveyard | ch-3_7 the graveyard "สุสาน" → "ลูมีเน่มองไปยังทุ่งนั้น" (entries 25–35) |
+| 1 | Famine's throne | ch-3_7c from "บัลลังก์แห่งฟามีน" (entry 9) and Famine's dialogue from entry 23; ch-3_7d |
+| 2 | First Appearance | ch-3_7c "นาง" → "น่าสะพรึง" (entries 17–20) |
+| 3 | Close up | ch-3_7c "นางลืมตาขึ้น", "โอ้ตายจริง…" (entries 21–22) |
