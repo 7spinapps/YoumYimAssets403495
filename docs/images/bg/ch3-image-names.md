@@ -165,3 +165,24 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 6 | torn off talisman | ch-3_10b "อี้ต้าฉู่เคลื่อนไหว" → "ดาบหยุดลง" (11–18) |
 | 7 | gaining back control | ch-3_10b "ร่างกายของเขาสั่น" → "เสียงของเขาแตกพร่า" (19–24) |
 | 8 | falling unconcious | ch-3_10b "เขาล้มลง" → end (36–52) |
+
+## ch3-11
+| # | Original name | Used in |
+|---|---|---|
+| 0 | Infirmary | ch-3_11 "ภายใน—" (4), Ashveld infirmary with Lumine/Yida sprites (38–48, 54–55, 59–136, 151–159); exterior uses ch1-5/3 (1–3) |
+| 1 | Alex asleep | ch-3_11 "หมดสติ", "มีผ้าพันแผล" (5–6) |
+| 2 | Ashveld Respite | ch-3_11 the three around Alex's bed → "น่าอึดอัด" (7–12) |
+| 3 | Depressed-eyes-closed | ch-3_11 "…พวกเรามาช้าเกินไป…" → "…ข้าขอโทษ…" (13–24) |
+| 4 | Depressed-eyes-opened | ch-3_11 "เขาหันไปทางลูมีเน่เล็กน้อย" → "ช่วงหยุด" (25–29) |
+| 5 | Lumine Console Kazuma | ch-3_11 "ลูมีเน่ก้าวเข้ามาใกล้" → "ความเงียบ" (30–37) |
+| 6 | Torn Talisman | ch-3_11 "ยันต์กระดาษที่ฉีกขาด" → "…แต่ข้าเคยเห็นมันมาก่อน…" (49–53) |
+| 7 | Famine's back1 | ch-3_11 "…บนหลังนาง…" → "ฟามีน" (56–58) |
+| 8 | Kazuma break down (1) | ch-3_11 "เธอยื่นมือออกไป" → "แล้ว—" (137–141) |
+| 9 | Kazuma break down (2) | ch-3_11 "เขาก็พังทลาย" → "เขาเอนตัวไปข้างหน้า" (142–146) |
+| 10 | Kazuma break down (3) | ch-3_11 "ลูมีเน่กอดเขาไว้" → "มีเพียงการอยู่ตรงนั้น" (147–150) |
+| 11 | Alex wake up | ch-3_11 "อเล็กซ์ขยับตัว" → "…ที่นี่ที่ไหน…" (160–163) |
+| 12 | Alex sad | ch-3_11 Alex confused/blank (164–176, 192–195, 212–234) |
+| 13 | Demanding answer | ch-3_11 "คาสึมะจับไหล่เขา" → "…เขาอยู่ที่ไหน…" (177–191, 196–211) |
+| 14 | Kazuma shock at Alex's amnesia | ch-3_11 "เขากุมศีรษะ" → "คาสึมะ…ไม่ขยับ" (235–243) |
+| 15 | Denial (1) | ch-3_11 "…ไม่…" → "ไม่มีอะไรเลย" (244–256) |
+| 16 | Kazuma's despair | ch-3_11 "สีหน้าของคาสึมะค่อยๆ พังทลาย" → end (257–263) |
