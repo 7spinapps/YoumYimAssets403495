@@ -110,3 +110,10 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 8 | Kuro Defeated Alex | ch-3_5 "…คุโระ…" (entry 112) |
 | 9 | Kuro Spared Alex | ch-3_5 "…เจ้าเชื่อว่าข้าจะเปลี่ยนได้…" |
 | 10 | Kuro Past Present | ch-3_5 "…นั่น ไม่ใช่เจ้า…" |
+
+## ch3-6
+| # | Original name | Used in |
+|---|---|---|
+| 0 | Calamity-Lahabrea-Intro | ch-3_6 Albert describes Lahabrea (entries 108–110) |
+| 1 | Calamity-Famine-Intro | ch-3_6 Albert describes Famine / Titania (entries 113–121) |
+| 2 | Calamity-Kefka-Intro | ch-3_6 Albert describes Kefka (entries 122–124) |
