@@ -152,3 +152,15 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 4 | Damaged | ch-3_9 "อัศวินถูกโจมตีในภาพ" → "จากนั้น—" (125–127) |
 | 5 | Recovered | ch-3_9 "มันฟื้นฟู", "สมบูรณ์แบบ" (128–129) |
 | 6 | 0 (pixel-identical copy of ch3-0/0) | unused — ch-3_9 references ch3-0/0 for the Void throne room (1–9, 19–86, 114–164) |
+
+## ch3-10
+| # | Original name | Used in |
+|---|---|---|
+| 0 | Broken Gate | ch-3_10 the open capital gate → "และแล้ว—" (1–14); first corpses use ch3-4/5 (15–34) |
+| 1 | Bodies | ch-3_10 military district → Raphael (35–48), Alex turns → battle (63–74); battle bg ch3-10-001; ch-3_10b (0–4, 8, 25–35) |
+| 2 | Alex Staring at the sky | ch-3_10 "เงาร่างหนึ่ง" → "ตอบข้ามา!" (49–62) |
+| 3 | Talisman on Alex | ch-3_10b "แสงเรือง" → "ยันต์กระดาษ" (5–7) |
+| 4 | Alex vs Kazuma | ch-3_10b "คาสึมะล็อคดาบกับอเล็กซ์", "เอาเลย!" (9–10) |
+| 5 | torn off talisman | ch-3_10b "อี้ต้าฉู่เคลื่อนไหว" → "ดาบหยุดลง" (11–18) |
+| 6 | gaining back control | ch-3_10b "ร่างกายของเขาสั่น" → "เสียงของเขาแตกพร่า" (19–24) |
+| 7 | falling unconcious | ch-3_10b "เขาล้มลง" → end (36–52) |
