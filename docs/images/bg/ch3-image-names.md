@@ -141,3 +141,14 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 9 | Outside the Forest | ch-3_8 after the "นอกป่า" title card to the end (159–197) |
 | 10 | 1 (pixel-identical copy of ch3-1/1) | unused — ch-3_8 references ch3-1/1 for the forest escape (151–157) |
 | 11 | 2 (pixel-identical copy of ch3-7/1) | unused — ch-3_8 references ch3-7/1 for the throne swamp |
+
+## ch3-9
+| # | Original name | Used in |
+|---|---|---|
+| 0 | Lahabrea look at the portal | ch-3_9 "ผู้เชื่อมรอยแยกมิติ" → "ยืนอยู่หน้ารอยแยกมิติ" (entries 10–11), "ลาฮาเบรียหันกลับไปมองรอยแยกมิติ" (165), "…น่าตื่นเต้นยื่งนัก" → "…ว่าไหมล่ะ?" (169–173) |
+| 1 | Lahabrea presented Kuro | ch-3_9 the knight in the rift (12–18), inside the rift (87–99, 103–107), knight keeps walking (166–168, 174–175) |
+| 2 | Afterlife pathway blocked | ch-3_9 "หลังจากที่ข้าปิดผนึกทางไปสู่ปรโลก…" → "ดวงตาของเขาเป็นประกาย" (100–102) |
+| 3 | The massacre | ch-3_9 "ภาพเปลี่ยนไป" → "มันสังหารทุกสิ่งที่มันพบเจอ" (108–112) |
+| 4 | Damaged | ch-3_9 "อัศวินถูกโจมตีในภาพ" → "จากนั้น—" (125–127) |
+| 5 | Recovered | ch-3_9 "มันฟื้นฟู", "สมบูรณ์แบบ" (128–129) |
+| 6 | 0 (pixel-identical copy of ch3-0/0) | unused — ch-3_9 references ch3-0/0 for the Void throne room (1–9, 19–86, 114–164) |
