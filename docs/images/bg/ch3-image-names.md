@@ -125,3 +125,19 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 1 | Famine's throne | ch-3_7c from "บัลลังก์แห่งฟามีน" (entry 9) and Famine's dialogue from entry 23; ch-3_7d |
 | 2 | First Appearance | ch-3_7c "นาง" → "น่าสะพรึง" (entries 17–20) |
 | 3 | Close up | ch-3_7c "นางลืมตาขึ้น", "โอ้ตายจริง…" (entries 21–22) |
+
+## ch3-8
+| # | Original name | Used in |
+|---|---|---|
+| 0 | Albert's fall | ch-3_8 "เขาล้มลงกระแทกโคลน" → "ไม่—ไม่—หยุดนะ—!!" (entries 48–53), "ขาของอัลเบิร์ต—" → "ไปหานาง" (59–65) |
+| 1 | Famine drain | ch-3_8 "นางคุกเข่าลงตรงหน้าเขา" → "เหลือเพียงซากของสิ่งที่เคยเป็นคน" (68–81) |
+| 2 | Yida pulled out Ian's serum | ch-3_8 "เขาล้วงไปในกระเป๋า" → "…คงถึงเวลาคับขันแล้วสินะ…" (109–112) |
+| 3 | Yida inject the serum | ch-3_8 "เขาแทงมันเข้าที่ตัวเอง" → "จากนั้น—" (113–115) |
+| 4 | Yida felt funny after injecting the serum | ch-3_8 "ร่างของเขาสั่น" → "อี้ต้าฉู่—?" (116–120) |
+| 5 | Yida begin to transform | ch-3_8 "ร่างของเขาขยายใหญ่ขึ้น" → "กระดูกเคลื่อนตัว" (121–123) |
+| 6 | Yida fully transformed | ch-3_8 "…โอ้" → "ของคาปิบาร่ากล้ามโตขนาดยักษ์" (124–129) |
+| 7 | Yida carried Kazuma and Lumine | ch-3_8 "เขาคว้าคาสึมะ" → "จับให้ดีๆ!" (132–139) |
+| 8 | Yida run away | ch-3_8 "เถาวัลย์พุ่งขึ้นอีกครั้ง" → "อี้ต้าฉู่ไม่หันกลับ" (144–150) |
+| 9 | Outside the Forest | ch-3_8 after the "นอกป่า" title card to the end (159–197) |
+| 10 | 1 (pixel-identical copy of ch3-1/1) | unused — ch-3_8 references ch3-1/1 for the forest escape (151–157) |
+| 11 | 2 (pixel-identical copy of ch3-7/1) | unused — ch-3_8 references ch3-7/1 for the throne swamp |
