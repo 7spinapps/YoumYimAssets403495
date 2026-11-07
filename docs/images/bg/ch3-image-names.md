@@ -169,7 +169,7 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 ## ch3-11
 | # | Original name | Used in |
 |---|---|---|
-| 0 | Infirmary | ch-3_11 "ภายใน—" (4), Ashveld infirmary with Lumine/Yida sprites (38–48, 54–55, 59–136, 151–159); exterior uses ch1-5/3 (1–3) |
+| 0 | Infirmary | ch-3_11 "ภายใน—" (4), Ashveld infirmary with Lumine/Yida sprites (38–48, 54–55, 59–125, 147–153, 168–176); exterior uses ch1-5/3 (1–3); memory slideshows of act 1–2 bgs at 126–146 (journey, battles, loss, Neme) |
 | 1 | Alex asleep | ch-3_11 "หมดสติ", "มีผ้าพันแผล" (5–6) |
 | 2 | Ashveld Respite | ch-3_11 the three around Alex's bed → "น่าอึดอัด" (7–12) |
 | 3 | Depressed-eyes-closed | ch-3_11 "…พวกเรามาช้าเกินไป…" → "…ข้าขอโทษ…" (13–24) |
@@ -177,12 +177,12 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 5 | Lumine Console Kazuma | ch-3_11 "ลูมีเน่ก้าวเข้ามาใกล้" → "ความเงียบ" (30–37) |
 | 6 | Torn Talisman | ch-3_11 "ยันต์กระดาษที่ฉีกขาด" → "…แต่ข้าเคยเห็นมันมาก่อน…" (49–53) |
 | 7 | Famine's back1 | ch-3_11 "…บนหลังนาง…" → "ฟามีน" (56–58) |
-| 8 | Kazuma break down (1) | ch-3_11 "เธอยื่นมือออกไป" → "แล้ว—" (137–141) |
-| 9 | Kazuma break down (2) | ch-3_11 "เขาก็พังทลาย" → "เขาเอนตัวไปข้างหน้า" (142–146) |
-| 10 | Kazuma break down (3) | ch-3_11 "ลูมีเน่กอดเขาไว้" → "มีเพียงการอยู่ตรงนั้น" (147–150) |
-| 11 | Alex wake up | ch-3_11 "อเล็กซ์ขยับตัว" → "…ที่นี่ที่ไหน…" (160–163) |
-| 12 | Alex sad | ch-3_11 Alex confused/blank (164–176, 192–195, 212–234) |
-| 13 | Demanding answer | ch-3_11 "คาสึมะจับไหล่เขา" → "…เขาอยู่ที่ไหน…" (177–191, 196–211) |
-| 14 | Kazuma shock at Alex's amnesia | ch-3_11 "เขากุมศีรษะ" → "คาสึมะ…ไม่ขยับ" (235–243) |
-| 15 | Denial (1) | ch-3_11 "…ไม่…" → "ไม่มีอะไรเลย" (244–256) |
-| 16 | Kazuma's despair | ch-3_11 "สีหน้าของคาสึมะค่อยๆ พังทลาย" → end (257–263) |
+| 8 | Kazuma break down (1) | ch-3_11 "เธอยื่นมือออกไป" → "แล้ว—" (154–158) |
+| 9 | Kazuma break down (2) | ch-3_11 "เขาก็พังทลาย" → "เขาเอนตัวไปข้างหน้า" (159–163) |
+| 10 | Kazuma break down (3) | ch-3_11 "ลูมีเน่กอดเขาไว้" → "มีเพียงการอยู่ตรงนั้น" (164–167) |
+| 11 | Alex wake up | ch-3_11 "อเล็กซ์ขยับตัว" → "…ที่นี่ที่ไหน…" (177–180) |
+| 12 | Alex sad | ch-3_11 Alex confused/blank (181–193, 209–212, 229–230); Alex sprite c_016 013–015 on the infirmary bg from "อเล็กซ์จ้องเขา" (231–252) |
+| 13 | Demanding answer | ch-3_11 "คาสึมะจับไหล่เขา" → "…เขาอยู่ที่ไหน…" (194–208, 213–220, 226–228); Kuro memory inserts ch1-12/2, ch1-12/1, ch3-3/7, ch1-12/3 at 221–225 |
+| 14 | Kazuma shock at Alex's amnesia | ch-3_11 "เขากุมศีรษะ" → "คาสึมะ…ไม่ขยับ" (253–260); "เขากุมศีรษะ" (252) is Alex sprite 016 on the infirmary bg |
+| 15 | Denial (1) | ch-3_11 "…ไม่…" → "ไม่มีอะไรเลย" (261–273) |
+| 16 | Kazuma's despair | ch-3_11 "สีหน้าของคาสึมะค่อยๆ พังทลาย" → end (274–280) |
