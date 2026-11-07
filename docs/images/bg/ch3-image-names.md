@@ -243,3 +243,11 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 15 | Lahabrea got what he wanted | ch-3_15 (118–119) |
 | 16 | The massacre | ch-3_15 "มีวิญญาณ…สิงสู่มันอยู่" → "ทั้งเมืองหลวง" (134–136); 130–133 reuse ch3-9/1 |
 | 17 | (Claude-made) night version of 0 — darkened, blue tint, campfire glow | ch-3_15 night campfire (159–181) |
+
+## ch3-16
+
+| # | Original name | Used at |
+|---|---------------|---------|
+| 0 | Stormlit Floating Ruins | ch-3_16 Lahabrea's domain, "ความมืด" → "หายใจอยู่" (1–5) |
+| 1 | Lahabrea's Throne in the Void | ch-3_16 "ลาฮาเบรียนั่งอยู่บนนั้น" → "แฝงรอยสนุก" (9–11), and "ลาฮาเบรียเอนพิงบัลลังก์" → "แล้ว—" (74–88) |
+| 2 | Velka Behind the Throne | ch-3_16 Velka "…หึ" → end (89–97) |
