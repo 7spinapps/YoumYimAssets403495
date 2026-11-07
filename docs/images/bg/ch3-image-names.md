@@ -197,8 +197,8 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 4 | Palace Interior | ch-3_13 "แต่กลับเต็มไปด้วย…" → Gredo on the cult (49–65) |
 | 5 | Grand Hall Crowded for when Gredo point at Issac | ch-3_13 Grand Hall, crowd → Gredo points at Isaac (67–76) |
 | 6 | Grand Hall Crowded for bg when using Issace's portrait | ch-3_13 Isaac's sermon with sprite → Gredo greets him (77–98) |
-| 7 | Grand Hall Empty | ch-3_13 Isaac talks with Kazuma/Yida (99–118, 123–182, 187–196) |
-| 8 | Flashback1; Monster Horde | ch-3_13 Isaac's party devoured (119–122); Famine insert reuses ch3-7/3 (183–186); ending reuses ch3-11/0 |
+| 7 | Grand Hall Empty | ch-3_13 Isaac talks with Kazuma/Yida (99–118, 123–185, 190–199) |
+| 8 | Flashback1; Monster Horde | ch-3_13 Isaac's party devoured (119–122); Famine insert reuses ch3-7/3 (186–189); ending reuses ch3-11/0 |
 
 ## ch3-14
 | # | Original name | Used in |
@@ -233,10 +233,10 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 5 | Titania's blessing | ch-3_15 "จงรับสิ่งนี้ไว้" → "กำลังตื่นขึ้น" (52–57) |
 | 6 | Fairy Royal court Past | ch-3_15 "…เมื่อห้าร้อยปีก่อน…" (87) |
 | 7 | Titania's Court | ch-3_15 "ความทรงจำแวบเข้ามา" (88) |
-| 8 | Lahabrea's visit | ch-3_15 "เขาปรากฏตัวขึ้น" → "ช่วงหยุด" (89–96) |
-| 9 | Lahabrea's Domination | ch-3_15 "…และข้าก็พ่ายแพ้" (97–98) |
-| 10 | Titania's Magic Meets the Void | ch-3_15 "เวทมนตร์ของข้า…" (99–100) |
-| 11 | Fairy Court Magic Nullified | ch-3_15 "เขาลบล้างมัน" → Isaac "เหมือนกับก่อนหน้านี้" (101–104) |
+| 8 | Lahabrea's visit | ch-3_15 "เขาปรากฏตัวขึ้น" → "ความเงียบ" (89–98) |
+| 9 | Lahabrea's Domination | ch-3_15 "และย้อนมันกลับมาทำร้ายข้า" → Isaac "เหมือนกับก่อนหน้านี้" (103–104); user order 11 → 10 → 9 |
+| 10 | Titania's Magic Meets the Void | ch-3_15 "เขาลบล้างมัน" → "ผนึกมัน" (101–102) |
+| 11 | Fairy Court Magic Nullified | ch-3_15 "เวทมนตร์ของข้า…" (99–100) |
 | 12 | Lahabrea's horde | ch-3_15 "และอสูรของเขา…" (105–110) |
 | 13 | Lahabrea summoned Velka | ch-3_15 the knight wrapped in flame (111–114) |
 | 14 | Velka defeated Titania | ch-3_15 "อัศวินนั่น แทบไม่ต้องออกแรง" (115–117) |
