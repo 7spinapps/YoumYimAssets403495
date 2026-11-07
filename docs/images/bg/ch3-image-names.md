@@ -199,3 +199,25 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 6 | Grand Hall Crowded for bg when using Issace's portrait | ch-3_13 Isaac's sermon with sprite → Gredo greets him (77–98) |
 | 7 | Grand Hall Empty | ch-3_13 Isaac talks with Kazuma/Yida (99–118, 123–182, 187–196) |
 | 8 | Flashback1; Monster Horde | ch-3_13 Isaac's party devoured (119–122); Famine insert reuses ch3-7/3 (183–186); ending reuses ch3-11/0 |
+
+## ch3-14
+| # | Original name | Used in |
+|---|---|---|
+| 0 | Alex's rush | ch-3_14b "อเล็กซ์ขยับตัว" → "ซากภูตถูกตัดขาดกลางอากาศ" (0–5) |
+| 1 | Alex's assault | ch-3_14d "เขาพุ่งเข้าไป" → "แม้หลังจากพวกมันหยุดเคลื่อนไหวแล้ว" (7–12) |
+| 2 | Back cut | ch-3_14e Isaac spots the talisman on Famine's back (0) |
+| 3 | Issac restraint | ch-3_14e vines bind Isaac (3–6) |
+| 4 | Human Barrier-Protection | ch-3_14e followers throw themselves in front of Isaac (10–13) |
+| 5 | Human Barrier-rotten | ch-3_14e followers rot away (14–17) |
+| 6 | Alex's rescue | ch-3_14e Alex hacks the vines off Isaac (23–29) |
+| 7 | Lumine's purification beam | ch-3_14e "แสงสว่างปะทุขึ้น" (35) |
+| 8 | Lumine's purification | ch-3_14e disease cleansed (36–38) |
+| 9 | Famine took damage | ch-3_14e Famine knocked into the giant tree (53–56) |
+| 10 | Famine's transformation complete | ch-3_14e "การแปรสภาพสิ้นสุดลง" (60) |
+| 11 | Famine Final Form Battle scene (1) | ch-3_14e battle line (61) + battle bg of ch3-14-005 |
+| 12 | Fallen Famine to Titania | ch-3_14f essence expelled (6–7) |
+| 13 | Famine fallen | ch-3_14f "ร่างหนึ่งร่วงลง" (8–9) |
+| 14 | Lumine catches Titania | ch-3_14f (10–11) |
+| 15 | Titania unconcious | ch-3_14f Lumine pleading, the mud clearing (12–22) |
+| 16 | Titania Awakened | ch-3_14f from "ดวงตาของทิทาเนียเปิดขึ้น" (23–29); last line 30 uses healthy forest ch3-1/0 |
+| 17 | Famine Final Form Battle scene (2) | unused (near-duplicate of 11) |
