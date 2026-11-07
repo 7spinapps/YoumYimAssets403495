@@ -186,3 +186,16 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 14 | Kazuma shock at Alex's amnesia | ch-3_11 "เขากุมศีรษะ" → "คาสึมะ…ไม่ขยับ" (253–260); "เขากุมศีรษะ" (252) is Alex sprite 016 on the infirmary bg |
 | 15 | Denial (1) | ch-3_11 "…ไม่…" → "ไม่มีอะไรเลย" (261–273) |
 | 16 | Kazuma's despair | ch-3_11 "สีหน้าของคาสึมะค่อยๆ พังทลาย" → end (274–280) |
+
+## ch3-13
+| # | Original name | Used in |
+|---|---|---|
+| 0 | Plains of Delmor | ch-3_13 plains outside Yumyim (1–11) |
+| 1 | Stone Pillar | ch-3_13 "เสาหินโดดเดี่ยว" → stairs open (12–19) |
+| 2 | Stone Pillar Entrance | ch-3_13 "บันไดถูกเปิดออก" → descent (20–38) |
+| 3 | Issac's Palace Exterior | ch-3_13 underground palace, "บันไดสิ้นสุดลง" → "เป็นระเบียบ" (40–48) |
+| 4 | Palace Interior | ch-3_13 "แต่กลับเต็มไปด้วย…" → Gredo on the cult (49–65) |
+| 5 | Grand Hall Crowded for when Gredo point at Issac | ch-3_13 Grand Hall, crowd → Gredo points at Isaac (67–76) |
+| 6 | Grand Hall Crowded for bg when using Issace's portrait | ch-3_13 Isaac's sermon with sprite → Gredo greets him (77–98) |
+| 7 | Grand Hall Empty | ch-3_13 Isaac talks with Kazuma/Yida (99–118, 123–182, 187–196) |
+| 8 | Flashback1; Monster Horde | ch-3_13 Isaac's party devoured (119–122); Famine insert reuses ch3-7/3 (183–186); ending reuses ch3-11/0 |
