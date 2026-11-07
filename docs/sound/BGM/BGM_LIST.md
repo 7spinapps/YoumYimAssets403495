@@ -18,3 +18,4 @@ Named tracks that were renamed to the `bgmNN.mp3` scheme. Transcripts reference 
 | bgm113.mp3 | The Hollow Queen — Famine's Theme | ch-3_7c (Famine appears on her throne, entry 17 "นาง" → until the boss battle) |
 | bgm114.mp3 | The Garden That Forgot to Bloom — Famine's Battle Theme | ch-3_7c (boss battle vs Famine, ch3-7-003, from the battle entry 125) |
 | bgm115.mp3 | Forgotten Hope | ch-3_11 (the amnesia sinks in for Kazuma, "น้ำหนักนั้นตกลงมา" entry 256 → end) |
+| bgm116.mp3 | The End of All Things — Famine's Final Form Battle Theme | ch-3_14e (final battle vs Famine's final form, ch3-14-005, set on the closeVN line; replaced bgm99) |
