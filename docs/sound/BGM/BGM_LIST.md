@@ -17,3 +17,4 @@ Named tracks that were renamed to the `bgmNN.mp3` scheme. Transcripts reference 
 | bgm112.mp3 | Beyond the Veil of Creation — Lahabrea's Theme | ch-3_5 (whole chapter, Alex chained in the Silent Void) |
 | bgm113.mp3 | The Hollow Queen — Famine's Theme | ch-3_7c (Famine appears on her throne, entry 17 "นาง" → until the boss battle) |
 | bgm114.mp3 | The Garden That Forgot to Bloom — Famine's Battle Theme | ch-3_7c (boss battle vs Famine, ch3-7-003, from the battle entry 125) |
+| bgm115.mp3 | Forgotten Hope | ch-3_11 (the amnesia sinks in for Kazuma, "น้ำหนักนั้นตกลงมา" entry 256 → end) |
