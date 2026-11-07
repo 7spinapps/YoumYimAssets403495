@@ -221,3 +221,25 @@ Numbered by the artist; used by the Forgotten Sanctum scene appended to ch-3_0.
 | 15 | Titania unconcious | ch-3_14f Lumine pleading, the mud clearing (12–22) |
 | 16 | Titania Awakened | ch-3_14f from "ดวงตาของทิทาเนียเปิดขึ้น" (23–29); last line 30 uses healthy forest ch3-1/0 |
 | 17 | Famine Final Form Battle scene (2) | unused (near-duplicate of 10) |
+
+## ch3-15
+| # | Original name | Used in |
+|---|---|---|
+| 0 | Healing Forest (1) | ch-3_15 the swamp coming back to life (2–5) |
+| 1 | Healing Forest (2) | ch-3_15 "แสงส่องลอดผ่านยอดไม้" → "หนักอึ้ง" (6–8) |
+| 2 | Sunlit Graves in the Healing Forest | ch-3_15 graves, Isaac / Yida / Alex sprites (10–33) |
+| 3 | Fairy Royal court Present | ch-3_15 Titania's court, Titania c_2025 right slot (35–38, 43–51, 58–76, 82–86, 120–129, 137–157, 185–210, 214–218) |
+| 4 | Titania on the healing throne | ch-3_15 "ทีทาเนียนั่งอยู่ใต้ต้นไม้ใหญ่" (39–42), hugs (77–81, 211–213) |
+| 5 | Titania's blessing | ch-3_15 "จงรับสิ่งนี้ไว้" → "กำลังตื่นขึ้น" (52–57) |
+| 6 | Fairy Royal court Past | ch-3_15 "…เมื่อห้าร้อยปีก่อน…" (87) |
+| 7 | Titania's Court | ch-3_15 "ความทรงจำแวบเข้ามา" (88) |
+| 8 | Lahabrea's visit | ch-3_15 "เขาปรากฏตัวขึ้น" → "ช่วงหยุด" (89–96) |
+| 9 | Lahabrea's Domination | ch-3_15 "…และข้าก็พ่ายแพ้" (97–98) |
+| 10 | Titania's Magic Meets the Void | ch-3_15 "เวทมนตร์ของข้า…" (99–100) |
+| 11 | Fairy Court Magic Nullified | ch-3_15 "เขาลบล้างมัน" → Isaac "เหมือนกับก่อนหน้านี้" (101–104) |
+| 12 | Lahabrea's horde | ch-3_15 "และอสูรของเขา…" (105–110) |
+| 13 | Lahabrea summoned Velka | ch-3_15 the knight wrapped in flame (111–114) |
+| 14 | Velka defeated Titania | ch-3_15 "อัศวินนั่น แทบไม่ต้องออกแรง" (115–117) |
+| 15 | Lahabrea got what he wanted | ch-3_15 (118–119) |
+| 16 | The massacre | ch-3_15 "มีวิญญาณ…สิงสู่มันอยู่" → "ทั้งเมืองหลวง" (134–136); 130–133 reuse ch3-9/1 |
+| 17 | (Claude-made) night version of 0 — darkened, blue tint, campfire glow | ch-3_15 night campfire (159–181) |
